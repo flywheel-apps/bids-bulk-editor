@@ -284,8 +284,7 @@
 						"phase1",
 						"phase2",
 						"magnitude",
-						"fieldmap",
-						"epi"
+						"fieldmap"
 						]
 				}
 			},
